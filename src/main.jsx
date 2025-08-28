@@ -7,7 +7,7 @@ import './styles.css'
 
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/Bank-Website">
+    <BrowserRouter basename="/Banking-Website">
       <App />
     </BrowserRouter>
   </React.StrictMode>
