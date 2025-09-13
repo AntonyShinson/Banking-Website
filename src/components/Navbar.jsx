@@ -14,7 +14,7 @@ export default function Navbar() {
           <span>Nova Bank</span>
         </div>
         <div className="navbar-links">
-          <NavLink to="/dashboard" className="nav-btn">Dashboard</NavLink>
+          <NavLink to="/dashboard" className="nav-btn">Dash</NavLink>
           <NavLink to="/transactions" className="nav-btn">Transactions</NavLink>
           <NavLink to="/online" className="nav-btn">Online Banking</NavLink>
           <NavLink to="/settings" className="nav-btn">Settings</NavLink>
