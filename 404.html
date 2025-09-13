@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url=/" />
+    <meta charset="utf-8">
+    <script type="text/javascript">
+      // Redirect to index.html and preserve path
+      var redirectTo = window.location.protocol + "//" + window.location.host + "/Banking-Website/#" + window.location.pathname;
+      window.location.replace(redirectTo);
+    </script>
   </head>
   <body>
-    <script>
-      var path = window.location.pathname;
-      var repo = "/Banking-Website";
-      window.location.replace(repo + "/#" + path);
-    </script>
+    <p>Redirecting…</p>
   </body>
 </html>
