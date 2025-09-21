@@ -20,7 +20,7 @@ export default function ManageCards() {
         <div className="cards-section">
           {cards.map(card => (
             <div key={card.id} className="card-box">
-              {/* Card image */}
+              {/* CARD IMAGE */}
               <div className="card-image">
                 <img src="../icons/cards.png" alt="Card" />
               </div>
