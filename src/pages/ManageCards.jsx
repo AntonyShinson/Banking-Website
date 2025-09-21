@@ -25,7 +25,7 @@ export default function ManageCards() {
                 <img src="../icons/cards.png" alt="Card" />
               </div>
 
-              {/* Card details */}
+              {/* CARD DETAILS*/}
               <div className="card-details">
                 <div className="card-header">
                   <h4 className="card-title">{card.type === "Debit Card" ? "NovaCard Visa" : "NovaCard Credit"}</h4>
