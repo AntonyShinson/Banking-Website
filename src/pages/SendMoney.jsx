@@ -78,7 +78,7 @@ export default function SendMoney() {
               />
             </div>
 
-            <button type="submit" className="sendmoney-btn">Send →</button>
+            <button type="submit" className="sendmoney-btn">SEND →</button>
           </form>
         </div>
       </div>
