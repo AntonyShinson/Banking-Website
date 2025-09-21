@@ -20,12 +20,12 @@ export default function ManageCards() {
         <div className="cards-section">
           {cards.map(card => (
             <div key={card.id} className="card-box">
-              {/* CARD IMAGE */}
+              {/* Card image */}
               <div className="card-image">
                 <img src="../icons/cards.png" alt="Card" />
               </div>
 
-              {/* CARD DETAILS*/}
+              {/* Card  details*/}
               <div className="card-details">
                 <div className="card-header">
                   <h4 className="card-title">{card.type === "Debit Card" ? "NovaCard Visa" : "NovaCard Credit"}</h4>
