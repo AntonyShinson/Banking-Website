@@ -9,4 +9,4 @@ Deployed using **GitHub Pages**.
 - Modern responsive UI  
 - Send and receive money  
 - Dashboard with charts and analytics
-- Easy navigation using react route
+- Easy navigation using react router
