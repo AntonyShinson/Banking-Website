@@ -8,5 +8,4 @@ Deployed using **GitHub Pages**.
 ## Features  
 - Modern responsive UI  
 - Send and receive money  
-- Dashboard with charts and analytics  
-- Easy navigation using React Router  
+- Dashboard with charts and analytics 
