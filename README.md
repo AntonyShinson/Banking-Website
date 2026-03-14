@@ -10,4 +10,3 @@ Deployed using **GitHub Pages**.
 - Send and receive money  
 - Dashboard with charts and analytics
 - Easy navigation using react router
-- 
